@@ -35,5 +35,3 @@ author_email = 'info@odoo.com'
 license = 'LGPL-3'
 
 nt_service_name = "odoo-server-" + series
-version += '-20190401' 
-# hash = 'bbfe4a9'
